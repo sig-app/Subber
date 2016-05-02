@@ -1,0 +1,1 @@
+"C:\Program Files\Python35\Lib\site-packages\PyQt4\pyuic4.bat" Subber\views\MainView.ui -o Subber\views\gen\ui_main_view.py
